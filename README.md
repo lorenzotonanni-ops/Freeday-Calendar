@@ -1,2 +1,2 @@
 # Freeday Calendar
-Calendario per gesione appuntamenti, scadenze e promemoria. Gratuito
+Calendario per gestione appuntamenti, scadenze e promemoria, tutto offline. Gratuito
